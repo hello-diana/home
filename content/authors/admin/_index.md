@@ -171,12 +171,12 @@ awards:
   #   date: '2019 & 2020'
   #   awarder: Georgia Tech
   #   icon: school
-  - title: 'Dean's List'
-    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    # certificate_url: https://www.datacamp.com
-    date: '2018 & 2019'
-    awarder: Georgia Tech
-    icon: school
+  # - title: 'Dean's List'
+  #   # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+  #   # certificate_url: https://www.datacamp.com
+  #   date: '2018 & 2019'
+  #   awarder: Georgia Tech
+  #   icon: school
 ---
 
 ## About Me
