@@ -161,7 +161,7 @@ languages:
 awards:
   - title: 'President’s Undergraduate Research Awards (PURA) - Salary Awards'
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2021 Fall'
+    date: '2021'
     awarder: Georgia Tech
     icon: school
     summary: |
