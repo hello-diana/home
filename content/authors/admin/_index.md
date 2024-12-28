@@ -10,8 +10,7 @@ name_pronunciation:
 
 # Full name (for SEO)
 
-first_name: Diana 
-last_name: Wang
+first_name: Diana last_name: Wang
 
 # Status emoji
 
