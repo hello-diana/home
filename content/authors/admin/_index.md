@@ -87,7 +87,7 @@ work:
     company_logo: ''
     date_start: 2022-05-24
     date_end: 2022-08-13
-    summary: |2-
+    summary: |
       - Delivered E2E pipeline for natural language understanding models’ test set release on AWS account that reduced manual effort and total testing time by 50%
   - position: Software Development Engineer Intern
     company_name: Amazon
@@ -168,13 +168,13 @@ awards:
       1 of 80 undergraduate awardees in Fall 2021 to receive a $1,500 stipend from Georgia Tech for conducting research.
   - title: 'Faculty Honors'
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2019 and 2020'
+    date: '2019 & 2020'
     awarder: Georgia Tech
     icon: school
   - title: 'Dean's List'
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     # certificate_url: https://www.datacamp.com
-    date: '2018 and 2019'
+    date: '2018 & 2019'
     awarder: Georgia Tech
     icon: school
 ---
