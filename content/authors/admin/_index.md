@@ -169,10 +169,6 @@ awards:
     awarder: Georgia Tech
     summary: |
       1 of 80 undergraduate awardees in Fall 2021 to receive a $1,500 stipend from Georgia Tech for conducting research.
-  - title: 'Dean's List'
-    date: '2019-05-01'
-    awarder: Georgia Tech
-    summary: |
 ---
 
 ## About Me
