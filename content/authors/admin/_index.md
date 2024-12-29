@@ -167,11 +167,10 @@ awards:
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2021-09-01'
     awarder: Georgia Tech
-    summary: |2-
+    summary: |
       1 of 80 undergraduate awardees in Fall 2021 to receive a $1,500 stipend from Georgia Tech for conducting research.
+
   - title: 'Dean's List'
-    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    # certificate_url: https://www.datacamp.com
     date: '2019-05-01'
     awarder: Georgia Tech
 ---
