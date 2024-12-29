@@ -7,8 +7,6 @@
 title: Yiyang "Diana" Wang | CS PhD
 # Website URL
 baseURL: 'https://hello-diana.github.io/home/'
-params:
-  favicon: "favicon.ico"
 
 ############################
 ## LANGUAGE
