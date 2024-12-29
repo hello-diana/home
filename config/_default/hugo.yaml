@@ -4,9 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Yiyang "Diana" Wang | Portfolio
+title: Yiyang "Diana" Wang | CS PhD
 # Website URL
 baseURL: 'https://hello-diana.github.io/home/'
+params:
+  favicon: "favicon.ico"
 
 ############################
 ## LANGUAGE
