@@ -163,10 +163,6 @@ awards:
     url: https://meritpages.com/YiyangWang
     date: '2022-05-01'
     awarder: Georgia Tech
-  
-  - title: 'Dean's List'
-    date: '2019-05-01'
-    awarder: Georgia Tech
   - title: 'President’s Undergraduate Research Awards (PURA) - Salary Awards'
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2021-09-01'
