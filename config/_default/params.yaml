@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Yiyang "Diana" Wang's personal academic website.'
+    description: 'Yiyang Diana Wang's personal academic website.'
     twitter: 'DianaYiyangWang'
   analytics:
     google_analytics: ''
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Yiyang "Diana" Wang"
+      text: "Yiyang 'Diana' Wang"
 
 # Site footer
 footer:
