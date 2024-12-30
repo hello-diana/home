@@ -8,7 +8,7 @@ authors:
 - Kaijie Zhu
 - Yijia Xiao
 - Jindong Wang
-date: '2024-11-01'
+date: 2024-11-01
 publishDate: '2024-12-30T13:57:56.759911Z'
 publication_types:
 - paper-conference
