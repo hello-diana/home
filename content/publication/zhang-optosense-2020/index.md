@@ -14,7 +14,7 @@ authors:
 - Canek Fuentes-Hernandez
 - Thad Starner
 - Gregory D. Abowd
-date: '2020-09-04'
+date: 2020-09-04
 publishDate: '2024-12-30T13:57:56.752234Z'
 publication_types:
 - article-journal
