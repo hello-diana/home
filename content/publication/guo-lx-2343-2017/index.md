@@ -12,7 +12,7 @@ authors:
 - Vatcharin Rukachaisirikul
 - Li-hong Hu
 - Xu Shen
-date: '2017-08-01'
+date: 2017-08-01
 publishDate: '2024-12-30T13:57:56.726696Z'
 publication_types:
 - article-journal
