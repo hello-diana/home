@@ -126,7 +126,7 @@ skills:
       - name: Swift
         description: ''
         percent: 60
-        icon: chart-bar
+        icon: device-phone-mobile
       - name: SQL
         description: ''
         percent: 40
@@ -138,15 +138,15 @@ skills:
       - name: Cooking
         description: ''
         percent: 60
-        icon: cook
+        icon: custom/utensils-solid
       - name: Dogs
         description: ''
         percent: 100
-        icon: dog
+        icon: custom/dog-solid
       - name: Golf
         description: ''
         percent: 80
-        icon: golf
+        icon: custom/golf-ball-tee-solid
 
 languages:
   - name: English
