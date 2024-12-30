@@ -17,7 +17,7 @@ authors:
 - Thad Starner
 - Trisha L. Andrew
 - Gregory D. Abowd
-date: '2022-01-27'
+date: 2022-01-27
 publishDate: '2024-12-30T13:57:56.737534Z'
 publication_types:
 - article-journal
