@@ -34,6 +34,30 @@
     </item>
     
     <item>
+      <title>AgentReview: Exploring Peer Review Dynamics with LLM Agents</title>
+      <link>http://localhost:1313/home/publication/jin-agentreview-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/publication/jin-agentreview-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scito2M: A 2 Million, 30-Year Cross-disciplinary Dataset for Temporal Scientometric Analysis</title>
+      <link>http://localhost:1313/home/publication/jin-scito-2-m-2024/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/publication/jin-scito-2-m-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phantom Puffs: A Phantom Lung to Emulate Smoking Behavior</title>
+      <link>http://localhost:1313/home/publication/goel-phantom-nodate/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/publication/goel-phantom-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/home/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
@@ -278,7 +302,7 @@
 
 
 
-&lt;div id=&#34;chart-678352491&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-541967283&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +320,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-678352491&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-541967283&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -914,6 +938,22 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Flexible computational photodetectors for self-powered activity sensing</title>
+      <link>http://localhost:1313/home/publication/zhang-flexible-2022/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/publication/zhang-flexible-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OptoSense: Towards Ubiquitous Self-Powered Ambient Light Sensing Surfaces</title>
+      <link>http://localhost:1313/home/publication/zhang-optosense-2020/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/publication/zhang-optosense-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>http://localhost:1313/home/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -927,6 +967,14 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>LX2343 alleviates cognitive impairments in AD model rats by inhibiting oxidative stress-induced neuronal apoptosis and tauopathy</title>
+      <link>http://localhost:1313/home/publication/guo-lx-2343-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/publication/guo-lx-2343-2017/</guid>
+      <description></description>
     </item>
     
     <item>
