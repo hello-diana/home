@@ -1,16 +1,15 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 Presented my work-in-progress at Northeast CHI!
+summary: I presented my work-in-progress paper, From Puffs to Patterns`:` Ubiquitous Technology in Mapping E-Cigarette Consumption. 
+date: 2024-05-08
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'WIP presentation tables'
 
 authors:
-  - admin
-  - Ted
+  - Yiyang 'Diana' Wang
 
 tags:
   - Academic

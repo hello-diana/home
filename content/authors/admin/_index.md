@@ -123,6 +123,10 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: Data analysis
+        description: ''
+        percent: 80
+        icon: chart-bar
       - name: Swift
         description: ''
         percent: 60
@@ -147,6 +151,10 @@ skills:
         description: ''
         percent: 80
         icon: custom/golf-ball-tee-solid
+      - name: Travel
+        description: ''
+        percent: 100
+        icon: custom/globe-solid
 
 languages:
   - name: English
@@ -173,4 +181,4 @@ awards:
 
 ## About Me
 
-Yiyang(Diana) Wang is a driven Computer Science Ph.D. student at Georgia Tech specializing in human-computer interaction, multimodal sensing, and machine learning. Her research focuses on developing AI-driven mobile health technologies and behavioral analysis tools through user-centered design. She aims to apply her expertise in creating innovative, user-focused AI solutions across diverse technology domains.
+Yiyang(Diana) Wang is a driven Computer Science Ph.D. student at Georgia Tech specializing in human-computer interaction, multimodal sensing, and machine learning. 
