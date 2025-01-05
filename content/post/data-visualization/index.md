@@ -1,13 +1,12 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
+title: 📍 Presented MHCI capstone project with Meta!
 summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+date: 2023-08-03
 authors:
-  - admin
+  - Yiyang 'Diana' Wang
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Meta
+  - Carnegie Mellon University
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
