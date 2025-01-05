@@ -1,7 +1,7 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
+title: 👩🏼‍🏫 Volunteered at Ubicomp 2022!
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+date: 2022-09-13
 math: true
 authors:
   - admin
