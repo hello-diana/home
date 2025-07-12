@@ -1,0 +1,43 @@
+---
+title: Empowering Senior Cochlear Implant Users at Home via a Tablet Computer Application
+authors:
+- Birgit Philips
+- Cas Smits
+- Paul J. Govaerts
+- Inge Doorn
+- Filiep Vanpoucke
+date: '2018-11-01'
+publishDate: '2025-07-12T20:29:44.268281Z'
+publication_types:
+- article-journal
+publication: '*American Journal of Audiology*'
+doi: 10.1044/2018_AJA-IMIA3-18-0014
+abstract: 'PurposeThe introduction of connectivity technologies in hearing implants
+  allows new ways to support cochlear implant (CI) users remotely. Some functionalities
+  and services that are traditionally only available in an in-clinic care model can
+  now also be accessed at home. This study explores the feasibility of a prototype
+  of a tablet computer application (MyHearingApp [MHA]) in a group of senior experienced
+  CI users at home, evaluating usability and user motivation.MethodBased on user feedback,
+  a tablet computer application (MHA) for the Cochlear Nucleus 6 CP910 sound processor
+  was designed implementing six different functionalities: (a) My Hearing Tests, (b)
+  My Environment, (c) My Hearing Journey, (d) Tip of the Day, (e) Recipient Portal,
+  and (f) Program Use and Events. The clinical evaluation design was a prospective
+  study of the MHA in 16 senior experienced CI users. During 4 weeks, participants
+  could freely explore the functionalities. At the end, the usability and their motivation
+  for uptake and adherence were measured using a baseline and follow-up questionnaire.ResultsBased
+  on the System Usability Score (as part of the follow-up questionnaire), a good level
+  of usability was indicated (M = 75.6, range: 62.5--92.5, SD = 8.6). The ability
+  to perform hearing tests at home is ranked as the most relevant functionality within
+  the MHA. According to the Intrinsic Motivation Inventory (Deci, Eghrari, Patrick,
+  & Leone, 1994) questionnaire (as part of the follow-up questionnaire), participants
+  reported high levels of interest and enjoyment, found themselves competent, and
+  did not experience pressure while working with the app.ConclusionsThis study evaluated
+  a tablet computer application (MHA) for experienced senior CI users by means of
+  a prospective design, which provided novel insights into delivering CI care into
+  the home of the CI user. The user feedback from this small-scale study suggests
+  that the participants are open to take more responsibility for and to become a more
+  active actor in their own hearing care, if only this is facilitated with the right
+  tools. This may foster the evolution from a clinic-led to a more patient-centered
+  care model, where CI users feel more empowered in the self-management of their hearing
+  implant device.'
+---
